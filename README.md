@@ -18,3 +18,6 @@ Activité Pratique N°2 - Spring Data JPA Hibernate :
     - supprimer un patient
 7. Migrer de H2 Database vers MySQL
 8. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles 
+
+Veuillez trouver ci-dessous le lien vers le rapport PDF détaillant ma réalisation du TP2 : 
+https://github.com/halimadaoudi/TP2-SD-S2/blob/main/TP2_DAOUDI_HALIMA.pdf
